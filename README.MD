@@ -22,9 +22,16 @@ conda env create --name dl_env python=3.6 --file dl_enviroment.yml
 
 This will create our conda enviroment.
 
+### Slides
+
+Slides day 1: https://drive.google.com/drive/folders/1d2KK9VzWeueTnDu3x6mddWFZFF8JQrvG?usp=sharing
+
 ### Run
-To activate the enviroment you can run in a 
+To activate the enviroment you can run in a shell
+
+```
 conda activate dl_env
+```
 
 To run tensorboard simply type:
 
