@@ -17,7 +17,7 @@ conda config --append channels conda-forge
 Then in the projec directory run:
 
 ```
-conda env create --name dl_env python=3.6 --file enviroment.yaml
+conda env create --name dl_env python=3.7 --file enviroment.yaml
 ```
 
 This will create our conda enviroment.
