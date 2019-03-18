@@ -22,6 +22,12 @@ conda env create --name dl_env python=3.7 --file enviroment.yaml
 
 This will create our conda enviroment.
 
+If conda does not find all the packages please add :
+
+```
+conda config --env --add channels conda-forge
+```
+
 ### Slides
 
 Slides day 1: https://drive.google.com/drive/folders/1d2KK9VzWeueTnDu3x6mddWFZFF8JQrvG?usp=sharing
