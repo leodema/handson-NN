@@ -31,6 +31,7 @@ conda config --env --add channels conda-forge
 ### Slides
 
 Slides day 1: https://drive.google.com/drive/folders/1d2KK9VzWeueTnDu3x6mddWFZFF8JQrvG?usp=sharing
+Slides day 2: https://drive.google.com/drive/u/1/folders/12WLWF5XDUJok5bvQqAXt2ic5e-0wTe-W
 
 ### Run
 To activate the enviroment you can run in a shell
